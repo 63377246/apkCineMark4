@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">apkCineMark</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="content_description">contentDescription</string>
+    <string name="peliculas">peliculas</string>
+    <string name="confiteria">confiteria</string>
+    <string name="cines">cines</string>
+    <string name="menu">menu</string>
+
+</resources>
